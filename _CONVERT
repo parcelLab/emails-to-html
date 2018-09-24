@@ -1,0 +1,3 @@
+cd ~/Documents/emails-to-html/
+node .
+exit 0

@@ -1,0 +1,15 @@
+{
+  "name": "read-eml",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Julian Krenge",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.0",
+    "mailparser": "^0.5.3"
+  },
+  "description": "Converts .eml email files to .html files"
+}
